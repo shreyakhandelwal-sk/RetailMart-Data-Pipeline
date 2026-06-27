@@ -43,4 +43,4 @@ The project follows a standard 3-step data engineering process:
 
 Frontend Dashboard UI: Built with Streamlit. It displays visual bar charts of revenue per city and top-selling items. *(To run it, type `streamlit run dashboard.py` in the terminal).*
 Backend & SQL Database: Powered by the main Python pipeline script (`pipeline.py`) and a local SQLite database (`retail_mart.db`).
-Source Code Link: [https://github.com/your-username/RetailMart-Data-Pipeline](https://github.com/your-username/RetailMart-Data-Pipeline) 
+Link of my GitHub :https://github.com/shreyakhandelwal-sk/RetailMart-Data-Pipeline/edit/main/README.md
