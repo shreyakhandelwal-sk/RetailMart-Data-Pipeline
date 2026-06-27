@@ -1,0 +1,5 @@
+*.db
+retail_mart.db
+__pycache__/
+*.pyc
+.DS_Store
